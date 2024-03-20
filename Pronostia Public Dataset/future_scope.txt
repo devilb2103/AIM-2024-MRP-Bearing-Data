@@ -1,0 +1,10 @@
+transfer leaening
+freq time domain
+deep learning
+
+
+time 
+
+max/min
+mean/std
+mean + n*std
